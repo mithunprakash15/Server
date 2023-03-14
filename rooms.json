@@ -1,0 +1,42 @@
+﻿[
+   {
+      "name" : "Fortune JP Palace Mysore",
+      "imageUrls":[
+         "./pics/for1",
+         "./pics/for2",
+         "./pics/for3"
+      ],
+      
+      "phonenumber":9989649278,
+      "currentbookings":[
+         
+      ],
+      "description":"Located in Mysore, the elegant Fortune JP Palace features sweeping views of Chamundi Hills. It presents a swimming pool, 3 dining options and spacious rooms with a flat-screen TV."
+   },
+   {
+      "name":"Radisson Blu Plaza Hotel Mysore", 
+      "imageurls":[
+         "./pics/rad1",
+         "./pics/rad2",
+         "./pics/rad3"
+      ],
+      "currentbookings":[
+         
+      ],
+      "description":"Offering an outdoor swimming pool, Radisson Blu Plaza Hotel Mysore is located in Mysore. It is 2 km from the Mysore Palace. Free WiFi access is available."
+   },
+   {
+      "name":"Xcel Luxury Hotel Apartments",
+      "imageurls":[
+         "./pics/x1",
+         "./pics/x2",
+         "./pics/x3"
+      ],
+
+
+      "currentbookings":[
+         
+      ],
+      "description":"Situated 2.4 km from Mysore Palace, Xcel Luxury Hotel Apartments-Home Living Redefined offers a garden, a shared lounge and air-conditioned accommodation with a terrace and free WiFi."
+   }
+]
