@@ -6,7 +6,7 @@ const cors = require("cors");
 router.use(cors());
 
 router.use(express.json());
-router.use(express.urlencoded());
+router.use(express.urlencoded({ extended: true }));
 
 router.post("/register", async (req, res) => {
   const newUser = new User(req.body);
